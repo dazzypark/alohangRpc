@@ -1,5 +1,5 @@
 # ALOHANG Music RPC
-MacOs 에서 사용하기 
+MacOS 에서 사용하기 
 
 
 $ xattr -c 프로그램_경로
